@@ -4,8 +4,6 @@ import IMG1 from '../../assets/FYP_IMG1.png'
 import IMG2 from '../../assets/JAVA_IMG2.png'
 import IMG3 from '../../assets/PHAR_IMG3.png'
 import IMG4 from '../../assets/PIZZA_IMG4.png'
-import IMG5 from '../../assets/portfolio5.png'
-import IMG6 from '../../assets/portfolio6.jpg'
 
 const data = [
   {
