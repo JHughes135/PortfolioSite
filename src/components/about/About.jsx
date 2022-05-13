@@ -60,7 +60,7 @@ const About = () => {
         </p>
           <p>
 
-            I'm currenty searching for a remote job as a Full Stack Developer. I want to gain more experience as a developer while having the ablity to travel.
+            I'm currenty searching for a remote job as a Full Stack Developer.
 
         </p>
         <a href='#contact' className='btn btn-primary'>Contact Me</a>
