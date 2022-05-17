@@ -34,7 +34,7 @@ const About = () => {
             <article className='about__card'>
               <GiTrophyCup className='about__icon' />
               <h5>Achievements</h5>
-              <small>Many</small>
+              <small></small>
             </article>
             <a href="#portfolio">
               <article className='about__card'>
